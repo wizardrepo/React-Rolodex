@@ -10,7 +10,7 @@ import {SearchBox} from './components/search-box/search-box.component'
 import {BackGround} from './components/background/background.component'
 
 
-var dbLink = "http://jsonplaceholder.typicode.com/users";
+var dbLink = "https://jsonplaceholder.typicode.com/users";
 
 
 class Board extends Component
