@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Rolodex/static/css/main.feab0124.chunk.css",
-    "main.js": "/React-Rolodex/static/js/main.55e58393.chunk.js",
-    "main.js.map": "/React-Rolodex/static/js/main.55e58393.chunk.js.map",
+    "main.css": "/React-Rolodex/static/css/main.0d6228f0.chunk.css",
+    "main.js": "/React-Rolodex/static/js/main.a848070e.chunk.js",
+    "main.js.map": "/React-Rolodex/static/js/main.a848070e.chunk.js.map",
     "runtime~main.js": "/React-Rolodex/static/js/runtime~main.9d4dfc7c.js",
     "runtime~main.js.map": "/React-Rolodex/static/js/runtime~main.9d4dfc7c.js.map",
     "static/js/2.d6a534e5.chunk.js": "/React-Rolodex/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/React-Rolodex/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/React-Rolodex/index.html",
-    "precache-manifest.4441a5d8c661d63531a58365700098c6.js": "/React-Rolodex/precache-manifest.4441a5d8c661d63531a58365700098c6.js",
+    "precache-manifest.2a5955b5dcb9c517bcb306ed086f3166.js": "/React-Rolodex/precache-manifest.2a5955b5dcb9c517bcb306ed086f3166.js",
     "service-worker.js": "/React-Rolodex/service-worker.js",
-    "static/css/main.feab0124.chunk.css.map": "/React-Rolodex/static/css/main.feab0124.chunk.css.map",
+    "static/css/main.0d6228f0.chunk.css.map": "/React-Rolodex/static/css/main.0d6228f0.chunk.css.map",
     "static/media/logo.svg": "/React-Rolodex/static/media/logo.5d5d9eef.svg"
   }
 }

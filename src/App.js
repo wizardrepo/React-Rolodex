@@ -10,7 +10,7 @@ import {SearchBox} from './components/search-box/search-box.component'
 import {BackGround} from './components/background/background.component'
 
 
-var dbLink = "https://jsonplaceholder.typicode.com/users";
+var users = "https://jsonplaceholder.typicode.com/users";
 
 
 class Board extends Component
@@ -64,7 +64,7 @@ class App extends Component
   
   componentDidMount()
   {
-    fetch(dbLink)
+    fetch(users)
     .then(resp => resp.json())
     .then(users => this.setState({monsters: users}));
   }
